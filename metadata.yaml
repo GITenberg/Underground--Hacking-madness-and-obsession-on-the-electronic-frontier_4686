@@ -1,0 +1,60 @@
+_repo: Underground--Hacking-madness-and-obsession-on-the-electronic-frontier_4686
+_version: 0.0.1
+contributor:
+  researcher:
+    agent_name: Assange, Julian
+    birthdate: 1971
+    gutenberg_agent_id: '37994'
+    url: http://www.gutenberg.org/2009/agents/37994
+    wikipedia: http://en.wikipedia.org/wiki/Julian_Assange
+creator:
+  author:
+    agent_name: Dreyfus, Suelette
+    gutenberg_agent_id: '1546'
+    url: http://www.gutenberg.org/2009/agents/1546
+description: "Underground: Tales of Hacking, Madness and Obsession on the Electronic\
+  \ Frontier is a 1997 book by Suelette Dreyfus, researched by Julian Assange. It\
+  \ describes the exploits of a group of Australian, American, and British black hat\
+  \ hackers during the late 1980s and early 1990s, among them Assange himself.\nCraig\
+  \ Bowen (nickname), administrator of two important Australian BBS (Pacific Island\
+  \ and Zen)\nPar, a.k.a. The Parmaster, an American hacker who avoided capture by\
+  \ the United States Secret Service from July 1989 to November 1991\nPhoenix, Electron\
+  \ and Nom, who were convicted in the first major Australian trial for computer crimes\n\
+  Pad and Gandalf, the British founders of the notorious 8lgm group\nthe Australian\
+  \ Mendax (Julian Assange) and Prime Suspect, who managed to penetrate the DDN, NIC\
+  \ and the Nortel internal network, and the phreaker Trax. Together, the three were\
+  \ known as the \"International Subversives\".\nAnthrax, another Australian hacker\
+  \ and phreaker\n\nThe book also mentions other hackers who had contacts with the\
+  \ protagonists, among them Erik Bloodaxe of the Legion of Doom and Corrupt of the\
+  \ Masters of Deception.\nThe first chapter of Underground relates the diffusion\
+  \ and reactions of the computer security community to the WANK worm that attacked\
+  \ DEC VMS computers over the DECnet in 1989 and was purportedly coded by a Melbourne\
+  \ hacker.\nThe book has sold 10,000 copies as of 2010. The author made the electronic\
+  \ edition of the book freely available in 2001, when it was announced on Slashdot,\
+  \ the server housing the book crashed due to the demand for the book. It reached\
+  \ 400,000 downloads within two years. The original download site www.underground-book.com\
+  \ was taken over in 2008 and now offers a link to Amazon where copies of the book\
+  \ may still be available. The site www.underground-book.net has the book freely\
+  \ available in electronic form.\nThe 2002 documentary In the Realm of the Hackers,\
+  \ directed by Kevin Anderson and centered on Phoenix and Electron, was inspired\
+  \ by this book.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4686'
+  wikidata: Q618245
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Computer hackers -- Australia -- Biography'
+- !lcsh 'Computer security -- Australia'
+- !lcc 'HV'
+- !lcsh 'Computer crimes -- Australia'
+- GITenberg
+title: 'Underground: Hacking, madness and obsession on the electronic frontier'
+url: http://www.gutenberg.org/ebooks/4686
+wikipedia:
+- https://en.wikipedia.org/wiki/Underground_(Dreyfus_book)
+- https://es.wikipedia.org/wiki/Underground_(libro)
