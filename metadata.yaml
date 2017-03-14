@@ -1,5 +1,5 @@
 _repo: Underground--Hacking-madness-and-obsession-on-the-electronic-frontier_4686
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   researcher:
     agent_name: Assange, Julian
@@ -7,6 +7,9 @@ contributor:
     gutenberg_agent_id: '37994'
     url: http://www.gutenberg.org/2009/agents/37994
     wikipedia: http://en.wikipedia.org/wiki/Julian_Assange
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dreyfus, Suelette
@@ -38,6 +41,8 @@ description: "Underground: Tales of Hacking, Madness and Obsession on the Electr
   \ available in electronic form.\nThe 2002 documentary In the Realm of the Hackers,\
   \ directed by Kevin Anderson and centered on Phoenix and Electron, was inspired\
   \ by this book.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4686#Underground--Hacking-madness-and-obsession-on-the-electronic-frontier
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
